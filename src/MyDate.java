@@ -48,6 +48,6 @@ class MyDate implements Comparable<MyDate> {
         System.out.println(date1.equals(date3)); // true
         System.out.println(date1.equals(date2)); // false
 
-        System.out.println(date1); // 01.01.2020
+        System.out.println(date1); //  01.01.2020
     }
 }
